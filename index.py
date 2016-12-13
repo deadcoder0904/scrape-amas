@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import urllib2
 import pprint
 import json
+import re
 
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -21,7 +22,12 @@ for item in li:
 	link = item.find('a')['href']
 	fullname = item.find('a').string
 	username = link.split('/')[3]
-	description = item.find('a').next_sibling
+	
+	s = str(item)
+	start = '</a>'
+	end = '</li>'
+	
+	description = re.search('%s(.*)%s' % (start, end), s).group(1)
 	obj = {
 		"username": username,
 		"link": link,
@@ -30,7 +36,6 @@ for item in li:
 	}
 	arr.append(obj)
 
-# pp.pprint(arr)
 print("Data Stored in `amas.json` file")
 
 with open('amas.json', 'w') as outfile:
