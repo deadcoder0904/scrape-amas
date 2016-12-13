@@ -32,7 +32,8 @@ for item in li:
 		"username": username,
 		"link": link,
 		"fullname": fullname,
-		"description": description
+		"description": description,
+		"avatar": "https://github.com/" + username + ".png?size=200"
 	}
 	arr.append(obj)
 

@@ -1,719 +1,839 @@
 [
     {
+        "avatar":"https://github.com/sindresorhus.png?size=200",
         "description":" - Aspiring rebel. Fabulously quirky. Creator of <a href=\"https://ava.li\">AVA</a>, <a href=\"http://todomvc.com\">TodoMVC</a>, <a href=\"http://yeoman.io\">Yeoman</a>.",
         "fullname":"Sindre Sorhus",
         "link":"https://github.com/sindresorhus/ama",
         "username":"sindresorhus"
     },
     {
+        "avatar":"https://github.com/passy.png?size=200",
         "description":" - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.",
         "fullname":"Pascal Hartig",
         "link":"https://github.com/passy/ama",
         "username":"passy"
     },
     {
+        "avatar":"https://github.com/stephenplusplus.png?size=200",
         "description":" - Just having fun. Creator of wiredep, youmeyou. Helper of ^.",
         "fullname":"Stephen Sawchuk",
         "link":"https://github.com/stephenplusplus/ama",
         "username":"stephenplusplus"
     },
     {
+        "avatar":"https://github.com/arthurvr.png?size=200",
         "description":" - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.",
         "fullname":"Arthur Verschaeve",
         "link":"https://github.com/arthurvr/ama",
         "username":"arthurvr"
     },
     {
+        "avatar":"https://github.com/mdo.png?size=200",
         "description":" - Designer at GitHub. Creator of Bootstrap.",
         "fullname":"Mark Otto",
         "link":"https://github.com/mdo/ama",
         "username":"mdo"
     },
     {
+        "avatar":"https://github.com/holman.png?size=200",
         "description":" - Developer and speaker. Previously worked at GitHub.",
         "fullname":"Zach Holman",
         "link":"https://github.com/holman/feedback",
         "username":"holman"
     },
     {
+        "avatar":"https://github.com/kentcdodds.png?size=200",
         "description":" - JavaScript dev, open source contributor, community builder, and speaker.",
         "fullname":"Kent C. Dodds",
         "link":"https://github.com/kentcdodds/ama",
         "username":"kentcdodds"
     },
     {
+        "avatar":"https://github.com/hughsk.png?size=200",
         "description":" - Web/graphics programmer, maintainer of glslify, stack.gl and far too many npm packages.",
         "fullname":"Hugh Kennedy",
         "link":"https://github.com/hughsk/ama",
         "username":"hughsk"
     },
     {
+        "avatar":"https://github.com/SBoudrias.png?size=200",
         "description":" - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.",
         "fullname":"Simon Boudrias",
         "link":"https://github.com/SBoudrias/ama",
         "username":"SBoudrias"
     },
     {
+        "avatar":"https://github.com/jedireza.png?size=200",
         "description":" - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.",
         "fullname":"Reza Akhavan",
         "link":"https://github.com/jedireza/ama",
         "username":"jedireza"
     },
     {
+        "avatar":"https://github.com/wesbos.png?size=200",
         "description":" - Full stack developer, independent author, speaker, teacher and JavaScripter.",
         "fullname":"Wes Bos",
         "link":"https://github.com/wesbos/ama",
         "username":"wesbos"
     },
     {
+        "avatar":"https://github.com/anselmh.png?size=200",
         "description":" - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.",
         "fullname":"Anselm Hannemann",
         "link":"https://github.com/anselmh/AMA",
         "username":"anselmh"
     },
     {
+        "avatar":"https://github.com/blainsmith.png?size=200",
         "description":" - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.",
         "fullname":"Blain Smith",
         "link":"https://github.com/blainsmith/ama",
         "username":"blainsmith"
     },
     {
+        "avatar":"https://github.com/lewiscowper.png?size=200",
         "description":" - Former forklift driver. Now web developer.",
         "fullname":"Lewis Cowper",
         "link":"https://github.com/lewiscowper/ama",
         "username":"lewiscowper"
     },
     {
+        "avatar":"https://github.com/bwinton.png?size=200",
         "description":" - UX Engineer for Mozilla Firefox, and the author of Whimsy.",
         "fullname":"Blake Winton",
         "link":"https://github.com/bwinton/ama",
         "username":"bwinton"
     },
     {
+        "avatar":"https://github.com/darrinhenein.png?size=200",
         "description":" - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.",
         "fullname":"Darrin Henein",
         "link":"https://github.com/darrinhenein/ama",
         "username":"darrinhenein"
     },
     {
+        "avatar":"https://github.com/cassiemc.png?size=200",
         "description":" -\u00a0Design Director for Mozilla Foundation, cofounder of Women&amp;&amp;Tech, speaker and writer.",
         "fullname":"Cassie McDaniel",
         "link":"https://github.com/cassiemc/ama",
         "username":"cassiemc"
     },
     {
+        "avatar":"https://github.com/DIYgod.png?size=200",
         "description":" -\u00a0Front-end engineer for Linux Deepin, blogger of anotherhome.net.",
         "fullname":"Wenjie Fan",
         "link":"https://github.com/DIYgod/ama",
         "username":"DIYgod"
     },
     {
+        "avatar":"https://github.com/xem.png?size=200",
         "description":" - Front-end hacker and JS code-golfer.",
         "fullname":"Maxime Euzi\u00e8re",
         "link":"https://github.com/xem/ama",
         "username":"xem"
     },
     {
+        "avatar":"https://github.com/operatino.png?size=200",
         "description":" - Front-end team lead, <a href=\"http://sourcejs.com\">SourceJS</a> maintainer and Living Style Guide evangelist.",
         "fullname":"Robert Haritonov",
         "link":"https://github.com/operatino/ama",
         "username":"operatino"
     },
     {
+        "avatar":"https://github.com/cheeaun.png?size=200",
         "description":" - Product engineer. GitHub stargazer. Anime lover.",
         "fullname":"Lim Chee Aun",
         "link":"https://github.com/cheeaun/ama",
         "username":"cheeaun"
     },
     {
+        "avatar":"https://github.com/darcyclarke.png?size=200",
         "description":" - Developer, Designer, Founder, Mentor &amp; Speaker.",
         "fullname":"Darcy Clarke",
         "link":"https://github.com/darcyclarke/ama",
         "username":"darcyclarke"
     },
     {
+        "avatar":"https://github.com/hackerkid.png?size=200",
         "description":" - Student at IIIT Allahabad. Experimentalist.",
         "fullname":"Vishnu Ks",
         "link":"https://github.com/hackerkid/ama",
         "username":"hackerkid"
     },
     {
+        "avatar":"https://github.com/nickdesaulniers.png?size=200",
         "description":" - Open Source Zealot at Mozilla.",
         "fullname":"Nick Desaulniers",
         "link":"https://github.com/nickdesaulniers/ama",
         "username":"nickdesaulniers"
     },
     {
+        "avatar":"https://github.com/hhsnopek.png?size=200",
         "description":" - Front-end developer, university student.",
         "fullname":"Henry Snopek",
         "link":"https://github.com/hhsnopek/ama",
         "username":"hhsnopek"
     },
     {
+        "avatar":"https://github.com/jessecogollo.png?size=200",
         "description":" - Student at EAFIT. JavaScript developer at Talos Digital and Co-organizer at MongoDB-Medellin.",
         "fullname":"Jesse cogollo",
         "link":"https://github.com/jessecogollo/ama",
         "username":"jessecogollo"
     },
     {
+        "avatar":"https://github.com/mikolalysenko.png?size=200",
         "description":" - Geometry vagrant.",
         "fullname":"Mikola Lysenko",
         "link":"https://github.com/mikolalysenko/ama",
         "username":"mikolalysenko"
     },
     {
+        "avatar":"https://github.com/drewminns.png?size=200",
         "description":" - Designer/Developer and Educator. Lead Developer and Instructor with <a href=\"http://hackeryou.com\">HackerYou</a>.",
         "fullname":"Drew Minns",
         "link":"https://github.com/drewminns/ama",
         "username":"drewminns"
     },
     {
+        "avatar":"https://github.com/heatherpayne.png?size=200",
         "description":" - CEO of <a href=\"http://hackeryou.com\">HackerYou</a>, founder of <a href=\"http://ladieslearningcode.com\">Ladies Learning Code</a>.",
         "fullname":"Heather Payne",
         "link":"https://github.com/heatherpayne/ama",
         "username":"heatherpayne"
     },
     {
+        "avatar":"https://github.com/Rchristiani.png?size=200",
         "description":" - Lead Instructor and Developer at <a href=\"http://hackeryou.com\">HackerYou</a> in Toronto.",
         "fullname":"Ryan Christiani",
         "link":"https://github.com/Rchristiani/ama",
         "username":"Rchristiani"
     },
     {
+        "avatar":"https://github.com/ahmadnassri.png?size=200",
         "description":" - Head of Engineering at <a href=\"https://www.mashape.com\">Mashape</a>. Technology Entrepreneur &amp; Dog Lover. Toronto \u2708 San Francisco.",
         "fullname":"Ahmad Nassri",
         "link":"https://github.com/ahmadnassri/ama",
         "username":"ahmadnassri"
     },
     {
+        "avatar":"https://github.com/partydelgado.png?size=200",
         "description":" - Engineering lead at <a href=\"http://www.refinery29.com\">Refinery29</a>. Avid mentor and developer evangelist, especially for women and minorities.",
         "fullname":"Patty Delgado",
         "link":"https://github.com/partydelgado/ama",
         "username":"partydelgado"
     },
     {
+        "avatar":"https://github.com/nzakas.png?size=200",
         "description":" - Architect at Box, author, creator of ESLint.",
         "fullname":"Nicholas C. Zakas",
         "link":"https://github.com/nzakas/ama",
         "username":"nzakas"
     },
     {
+        "avatar":"https://github.com/indigofeather.png?size=200",
         "description":" - Full stack developer and speaker.",
         "fullname":"Lance He",
         "link":"https://github.com/indigofeather/ama",
         "username":"indigofeather"
     },
     {
+        "avatar":"https://github.com/derickbailey.png?size=200",
         "description":" - Developer and entrepreneur, <a href=\"http://derickbailey.com/publications\">author</a> and <a href=\"http://watchmecode.com\">screencaster</a>.",
         "fullname":"Derick Bailey",
         "link":"https://github.com/derickbailey/ama",
         "username":"derickbailey"
     },
     {
+        "avatar":"https://github.com/lambtron.png?size=200",
         "description":" - Customer Acquisition and Evangelist at <a href=\"https://segment.com\">Segment</a>, maker of <a href=\"http://blog.andyjiang.com\">things</a>.",
         "fullname":"Andy Jiang",
         "link":"https://github.com/lambtron/ama/",
         "username":"lambtron"
     },
     {
+        "avatar":"https://github.com/virtueme.png?size=200",
         "description":" - Full stack developer caring about children reading.",
         "fullname":"Benny Thomas",
         "link":"https://github.com/virtueme/ama/",
         "username":"virtueme"
     },
     {
+        "avatar":"https://github.com/hemanth.png?size=200",
         "description":" - Computer polyglot CLI, web and Unix philosophy lover.",
         "fullname":"Hemanth.HM",
         "link":"https://github.com/hemanth/ama/",
         "username":"hemanth"
     },
     {
+        "avatar":"https://github.com/sebmck.png?size=200",
         "description":" - Creator of Babel.",
         "fullname":"Sebastian McKenzie",
         "link":"https://github.com/sebmck/ama",
         "username":"sebmck"
     },
     {
+        "avatar":"https://github.com/rishabhp.png?size=200",
         "description":" - Full stack engineer. Creator of <a href=\"http://cssdeck.com\">CSSDeck</a>.",
         "fullname":"Rishabh Pugalia",
         "link":"https://github.com/rishabhp/ama",
         "username":"rishabhp"
     },
     {
+        "avatar":"https://github.com/skippednote.png?size=200",
         "description":" - Front-end Architect at Axelerant. Polyglot. Unix &amp; Tooling fanboi.",
         "fullname":"Bassam Ismail",
         "link":"https://github.com/skippednote/ama",
         "username":"skippednote"
     },
     {
+        "avatar":"https://github.com/matthewmueller.png?size=200",
         "description":" - Creator of Cheerio, Duo, and a few other node modules.",
         "fullname":"Matthew Mueller",
         "link":"https://github.com/matthewmueller/ama",
         "username":"matthewmueller"
     },
     {
+        "avatar":"https://github.com/insanehong.png?size=200",
         "description":" - Front-end engineer at NAVER, founder of <a href=\"https://github.com/hackrslab\">hackrslab</a>.",
         "fullname":"DeokHong Kim",
         "link":"https://github.com/insanehong/ama",
         "username":"insanehong"
     },
     {
+        "avatar":"https://github.com/hugogiraudel.png?size=200",
         "description":" - CSS goblin, Sass hacker, margin psycho.",
         "fullname":"Hugo Giraudel",
         "link":"https://github.com/hugogiraudel/ama",
         "username":"hugogiraudel"
     },
     {
+        "avatar":"https://github.com/wbinnssmith.png?size=200",
         "description":" - JavaScript at Bitbucket. Makes internet things.",
         "fullname":"Will Binns-Smith",
         "link":"https://github.com/wbinnssmith/ama",
         "username":"wbinnssmith"
     },
     {
+        "avatar":"https://github.com/mollikka.png?size=200",
         "description":" - CS &amp; SE university student in Finland.",
         "fullname":"Lauri Tervonen",
         "link":"https://github.com/mollikka/ama",
         "username":"mollikka"
     },
     {
+        "avatar":"https://github.com/silvenon.png?size=200",
         "description":" - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.",
         "fullname":"Matija Marohni\u0107",
         "link":"https://github.com/silvenon/ama",
         "username":"silvenon"
     },
     {
+        "avatar":"https://github.com/shama.png?size=200",
         "description":" - Makes stuff and likes bears.",
         "fullname":"Kyle Robinson Young",
         "link":"https://github.com/shama/ama",
         "username":"shama"
     },
     {
+        "avatar":"https://github.com/therebelrobot.png?size=200",
         "description":" - Maker of web things <a href=\"http://mashape.com\">@Mashape</a> and <a href=\"https://github.com/nodejs/iojs.org\">nodejs/website</a>.",
         "fullname":"Trent Oswald",
         "link":"https://github.com/therebelrobot/ama",
         "username":"therebelrobot"
     },
     {
+        "avatar":"https://github.com/una.png?size=200",
         "description":" - Front-end developer, Sass things, Dev communities &amp; Open Source Design.",
         "fullname":"Una Kravets",
         "link":"https://github.com/una/ama",
         "username":"una"
     },
     {
+        "avatar":"https://github.com/chrismissal.png?size=200",
         "description":" - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.",
         "fullname":"Chris Missal",
         "link":"https://github.com/chrismissal/ama",
         "username":"chrismissal"
     },
     {
+        "avatar":"https://github.com/najela.png?size=200",
         "description":" - Full stack web developer with great passion in <a href=\"https://en.wikipedia.org/wiki/Social_psychology\">Social Psychology</a>.",
         "fullname":"Acho Arnold",
         "link":"https://github.com/najela/ama",
         "username":"najela"
     },
     {
+        "avatar":"https://github.com/robbbz.png?size=200",
         "description":" - Maker of cool things with the web, freelancer.",
         "fullname":"Rob Furlong",
         "link":"https://github.com/robbbz/ama",
         "username":"robbbz"
     },
     {
+        "avatar":"https://github.com/HoBi.png?size=200",
         "description":" - Student at <a href=\"http://fit.cvut.cz/en\">FIT CTU</a>, Sass and Angular 2 lover, INTJ.",
         "fullname":"Honza Bittner",
         "link":"https://github.com/HoBi/ama",
         "username":"HoBi"
     },
     {
+        "avatar":"https://github.com/jansanchez.png?size=200",
         "description":" - Front-end developer. Creator of css-url-versioner, open source contributor.",
         "fullname":"Jan Sanchez",
         "link":"https://github.com/jansanchez/ama",
         "username":"jansanchez"
     },
     {
+        "avatar":"https://github.com/AdrianArroyoCalle.png?size=200",
         "description":" - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.",
         "fullname":"Adri\u00e1n Arroyo Calle",
         "link":"https://github.com/AdrianArroyoCalle/ama",
         "username":"AdrianArroyoCalle"
     },
     {
+        "avatar":"https://github.com/RichardLitt.png?size=200",
         "description":" - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.",
         "fullname":"Richard Littauer",
         "link":"https://github.com/RichardLitt/ama",
         "username":"RichardLitt"
     },
     {
+        "avatar":"https://github.com/Widdershin.png?size=200",
         "description":" - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.",
         "fullname":"Nick Johnstone",
         "link":"https://github.com/Widdershin/ama",
         "username":"Widdershin"
     },
     {
+        "avatar":"https://github.com/Qix-.png?size=200",
         "description":" - Idaho native, Chalk collaborator, sunshine burns us. Likes hypotheticals, dislikes bees.",
         "fullname":"JD Ballard",
         "link":"https://github.com/Qix-/ama",
         "username":"Qix-"
     },
     {
+        "avatar":"https://github.com/tunnckoCore.png?size=200",
         "description":" - Passionate full stack developer, hacking on <a href=\"https://www.archlinux.org/\">ArchLinux</a>. Perfectionist. Revolutionist. Founder of <a href=\"https://github.com/regexps\">@RegexHQ</a>, core member at <a href=\"https://github.com/jstransformers\">@JSTransformers</a> and part of <a href=\"https://twitter.com/dwylhq\">@dwylhq</a>.",
         "fullname":"Charlike Mike Reagent",
         "link":"https://github.com/tunnckoCore/ama",
         "username":"tunnckoCore"
     },
     {
+        "avatar":"https://github.com/mamal72.png?size=200",
         "description":" - Software developer from Iran, mostly working on web backends, *nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7.",
         "fullname":"Mohamad Jahani",
         "link":"https://github.com/mamal72/ama",
         "username":"mamal72"
     },
     {
+        "avatar":"https://github.com/incanus.png?size=200",
         "description":" - Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.",
         "fullname":"Justin Miller",
         "link":"https://github.com/incanus/ama",
         "username":"incanus"
     },
     {
+        "avatar":"https://github.com/coderabbi.png?size=200",
         "description":" - Coder &amp; Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP &amp; NYPHP; Conference Speaker; Mentor.",
         "fullname":"Yitzchok Willroth",
         "link":"https://github.com/coderabbi/ama",
         "username":"coderabbi"
     },
     {
+        "avatar":"https://github.com/greydnls.png?size=200",
         "description":" - Sr Software Engineer at <a href=\"http://refinery29.com\">Refinery29</a>, US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.",
         "fullname":"Graham Daniels",
         "link":"https://github.com/greydnls/ama",
         "username":"greydnls"
     },
     {
+        "avatar":"https://github.com/jcarouth.png?size=200",
         "description":" - Lead Platform Engineer at <a href=\"http://www.liftopia.com\">Liftopia</a>, Co-host of the <a href=\"http://looselycoupled.info\">Loosely Coupled Podcast</a>, mentor, and conference speaker.",
         "fullname":"Jeff Carouth",
         "link":"https://github.com/jcarouth/ama",
         "username":"jcarouth"
     },
     {
+        "avatar":"https://github.com/elazar.png?size=200",
         "description":" - Full Stack Engineer at <a href=\"http://wheniwork.com\">When I Work</a>, author, mentor, and conference speaker.",
         "fullname":"Matthew Turland",
         "link":"https://github.com/elazar/amas",
         "username":"elazar"
     },
     {
+        "avatar":"https://github.com/assertchris.png?size=200",
         "description":" - <a href=\"http://assertchris.io\">Writer and coder</a>, working at <a href=\"http://www.silverstripe.org\">SilverStripe</a>.",
         "fullname":"Christopher Pitt",
         "link":"https://github.com/assertchris/amas",
         "username":"assertchris"
     },
     {
+        "avatar":"https://github.com/svpernova09.png?size=200",
         "description":" - PHP Dev, Sys Admin, Community Builder, Conf Organizer &amp; Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.",
         "fullname":"Joe Ferguson",
         "link":"https://github.com/svpernova09/ama",
         "username":"svpernova09"
     },
     {
+        "avatar":"https://github.com/hafriedlander.png?size=200",
         "description":" - Developer, CTO at <a href=\"http://www.silverstripe.org\">SilverStripe</a>, human (presumed).",
         "fullname":"Hamish Friedlander",
         "link":"https://github.com/hafriedlander/ama",
         "username":"hafriedlander"
     },
     {
+        "avatar":"https://github.com/dragonmantank.png?size=200",
         "description":" - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.",
         "fullname":"Chris Tankersley",
         "link":"https://github.com/dragonmantank/ama",
         "username":"dragonmantank"
     },
     {
+        "avatar":"https://github.com/deepaknverma.png?size=200",
         "description":" - Full stack developer at <a href=\"http://hometrack.com\">Hometrack Australia</a>, AWS Solution Architect, and passionate about <a href=\"https://www.flickr.com/photos/deepak-verma\">photography</a>.",
         "fullname":"Deepak Verma",
         "link":"https://github.com/deepaknverma/ama",
         "username":"deepaknverma"
     },
     {
+        "avatar":"https://github.com/gaearon.png?size=200",
         "description":" - JavaScript and React hobbyist, creator of <a href=\"https://github.com/gaearon/react-hot-loader\">React Hot Loader</a> and <a href=\"https://github.com/rackt/redux\">Redux</a>.",
         "fullname":"Dan Abramov",
         "link":"https://github.com/gaearon/ama",
         "username":"gaearon"
     },
     {
+        "avatar":"https://github.com/wasabeef.png?size=200",
         "description":" - Software developer in Japan. I love Android, JavaScript and iOS.",
         "fullname":"Daichi Furiya",
         "link":"https://github.com/wasabeef/ama",
         "username":"wasabeef"
     },
     {
+        "avatar":"https://github.com/MoOx.png?size=200",
         "description":" - Freelance front-end/UI/UX developer. Open Source addict &amp; compulsive coder.",
         "fullname":"Maxime Thirouin",
         "link":"https://github.com/MoOx/ama",
         "username":"MoOx"
     },
     {
+        "avatar":"https://github.com/ChristopherBiscardi.png?size=200",
         "description":" - UI lead at <a href=\"https://www.docker.com/\">Docker</a>. <a href=\"https://github.com/future-ui/future-ui\">JavaScript</a>. <a href=\"https://github.com/ChristopherBiscardi/snap-for-beginners\">Haskell</a>. Builder of products and tooling.",
         "fullname":"Chris Biscardi",
         "link":"https://github.com/ChristopherBiscardi/ama",
         "username":"ChristopherBiscardi"
     },
     {
+        "avatar":"https://github.com/mourner.png?size=200",
         "description":" - Engineer at <a href=\"https://www.mapbox.com/\">Mapbox</a>, creator of <a href=\"http://leafletjs.com/\">Leaflet</a> and a bunch of <a href=\"https://github.com/mourner/projects\">other open source libraries</a>. Building the future of interactive maps.",
         "fullname":"Vladimir Agafonkin",
         "link":"https://github.com/mourner/ama",
         "username":"mourner"
     },
     {
+        "avatar":"https://github.com/claudiopro.png?size=200",
         "description":" - Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.",
         "fullname":"Claudio Procida",
         "link":"https://github.com/claudiopro/ama",
         "username":"claudiopro"
     },
     {
+        "avatar":"https://github.com/zenorocha.png?size=200",
         "description":" - Developer Advocate at <a href=\"http://www.liferay.com/\">Liferay</a>.",
         "fullname":"Zeno Rocha",
         "link":"https://github.com/zenorocha/ama",
         "username":"zenorocha"
     },
     {
+        "avatar":"https://github.com/kahlil.png?size=200",
         "description":" - JavaScript developer, organizes KarlsruheJS, co-host of the <a href=\"http://descriptive.audio\">Descriptive Podcast</a> and the <a href=\"http://reactive.audio\">Reactive Podcast</a>, vocalist.",
         "fullname":"Kahlil Lechelt",
         "link":"https://github.com/kahlil/ama",
         "username":"kahlil"
     },
     {
+        "avatar":"https://github.com/vdemedes.png?size=200",
         "description":" - Node.js addict.",
         "fullname":"Vadim Demedes",
         "link":"https://github.com/vdemedes/ama",
         "username":"vdemedes"
     },
     {
+        "avatar":"https://github.com/jan-hendrik.png?size=200",
         "description":" - Webdeveloper, Scrum Professional, Agile Coach. Blogging about <a href=\"https://heuing.io\">Agile and Scrum</a>.",
         "fullname":"Jan-Hendrik Heuing",
         "link":"https://github.com/jan-hendrik/ama",
         "username":"jan-hendrik"
     },
     {
+        "avatar":"https://github.com/rclanan.png?size=200",
         "description":" - Freelance full stack developer at <a href=\"http://utopianconcept.com/\">Utopian Concept LLC</a>.",
         "fullname":"Raymond Clanan",
         "link":"https://github.com/rclanan/ama",
         "username":"rclanan"
     },
     {
+        "avatar":"https://github.com/fengmk2.png?size=200",
         "description":" - Node.js developer at <a href=\"https://www.alipay.com\">Alipay</a>.",
         "fullname":"MK Yuan",
         "link":"https://github.com/fengmk2/ama",
         "username":"fengmk2"
     },
     {
+        "avatar":"https://github.com/honglio.png?size=200",
         "description":" - Freelance full stack web developer and founder of <a href=\"http://www.niukj.com\">PresentBook</a>.",
         "fullname":"Hong Liu",
         "link":"https://github.com/honglio/ama",
         "username":"honglio"
     },
     {
+        "avatar":"https://github.com/arnaudbenard.png?size=200",
         "description":" - Freelance JS developer and digital nomad.",
         "fullname":"Arnaud Benard",
         "link":"https://github.com/arnaudbenard/ama",
         "username":"arnaudbenard"
     },
     {
+        "avatar":"https://github.com/tonyynot.png?size=200",
         "description":" - I went from zero to hired web developer in 5 months. I <a href=\"http://anthonyramella.com\">blog</a> about my experiences learning code and working as a junior developer.",
         "fullname":"Anthony Ramella",
         "link":"https://github.com/tonyynot/ama",
         "username":"tonyynot"
     },
     {
+        "avatar":"https://github.com/dikiaap.png?size=200",
         "description":" - Freelance full stack developer. Laravel addict.",
         "fullname":"Diki Andriansyah",
         "link":"https://github.com/dikiaap/ama",
         "username":"dikiaap"
     },
     {
+        "avatar":"https://github.com/steelbrain.png?size=200",
         "description":" - The Rebel\u2122, also a Node.js, PHP and HackLang developer.",
         "fullname":"Steel Brain",
         "link":"https://github.com/steelbrain/ama",
         "username":"steelbrain"
     },
     {
+        "avatar":"https://github.com/cjpatoilo.png?size=200",
         "description":" - Front-end engineer, JavaScript evangelist, <a href=\"https://github.com/deviofor\">DEV IO</a> Co-Founder.",
         "fullname":"CJ Patoilo",
         "link":"https://github.com/cjpatoilo/ama",
         "username":"cjpatoilo"
     },
     {
+        "avatar":"https://github.com/dashersw.png?size=200",
         "description":" - Head of Software Engineering at <a href=\"http://unumotors.com\">unu GmbH</a>. Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.",
         "fullname":"Armagan Amcalar",
         "link":"https://github.com/dashersw/ama",
         "username":"dashersw"
     },
     {
+        "avatar":"https://github.com/brenopolanski.png?size=200",
         "description":" - Front-end software engineer at <a href=\"http://www.meteorite.bi\">Meteorite BI</a>.",
         "fullname":"Breno Polanski",
         "link":"https://github.com/brenopolanski/ama",
         "username":"brenopolanski"
     },
     {
+        "avatar":"https://github.com/camilonova.png?size=200",
         "description":" - Full stack software developer in Colombia.",
         "fullname":"Camilo Nova",
         "link":"https://github.com/camilonova/ama",
         "username":"camilonova"
     },
     {
+        "avatar":"https://github.com/maclover7.png?size=200",
         "description":" - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.",
         "fullname":"Jon Moss",
         "link":"https://github.com/maclover7/ama",
         "username":"maclover7"
     },
     {
+        "avatar":"https://github.com/sethmcleod.png?size=200",
         "description":" - Front-end engineer, JavaScript enthusiast and <a href=\"http://codementor.io/seth\">Code Mentor</a>.",
         "fullname":"Seth Mcleod",
         "link":"https://github.com/sethmcleod/ama",
         "username":"sethmcleod"
     },
     {
+        "avatar":"https://github.com/itzsaga.png?size=200",
         "description":" - Free Code Camper, Burgeoning Dev, all things JavaScript.",
         "fullname":"Seth Alexander",
         "link":"https://github.com/itzsaga/ama",
         "username":"itzsaga"
     },
     {
+        "avatar":"https://github.com/ariya.png?size=200",
         "description":" - VP of Engineering <a href=\"https://shapesecurity.com/\">Shape Security</a>, Author of <a href=\"https://github.com/jquery/esprima\">Esprima</a> and <a href=\"http://phantomjs.org\">PhantomJS</a>.",
         "fullname":"Ariya Hidayat",
         "link":"https://github.com/ariya/ama",
         "username":"ariya"
     },
     {
+        "avatar":"https://github.com/xrobau.png?size=200",
         "description":" - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at <a href=\"https://www.sangoma.com\">Sangoma</a>.",
         "fullname":"Rob Thomas",
         "link":"https://github.com/xrobau/ama",
         "username":"xrobau"
     },
     {
+        "avatar":"https://github.com/amitmerchant1990.png?size=200",
         "description":" - Full-stack developer working with JavaScript, PHP and Java.",
         "fullname":"Amit Merchant",
         "link":"https://github.com/amitmerchant1990/ama",
         "username":"amitmerchant1990"
     },
     {
+        "avatar":"https://github.com/woliveiras.png?size=200",
         "description":" - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on <a href=\"http://woliveiras.com.br\">my blog</a>.",
         "fullname":"William Oliveira",
         "link":"https://github.com/woliveiras/ama",
         "username":"woliveiras"
     },
     {
+        "avatar":"https://github.com/unbug.png?size=200",
         "description":" - Author of <a href=\"http://www.mihtool.com\">MIHTool</a> and <a href=\"http://unbug.github.io/codelf/\">Codelf</a>.",
         "fullname":"Unbug Lee",
         "link":"https://github.com/unbug/ama",
         "username":"unbug"
     },
     {
+        "avatar":"https://github.com/tiborsimon.png?size=200",
         "description":" - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, <a href=\"https://tiborsimon.io\">tiborsimon.io</a>.",
         "fullname":"Tibor Simon",
         "link":"https://github.com/tiborsimon/ama",
         "username":"tiborsimon"
     },
     {
+        "avatar":"https://github.com/danilovaz.png?size=200",
         "description":" - Front-end developer (Brazilian), working at <a href=\"https://www.mlabs.com.br/\">mLabs</a> with JavaScript, EmberJS, APIs and other cool stuffs. I'm also <a href=\"https://github.com/beerjs/sjc\">BeerJS/SJC</a> organizer.",
         "fullname":"Danilo Vaz",
         "link":"https://github.com/danilovaz/ama",
         "username":"danilovaz"
     },
     {
+        "avatar":"https://github.com/amejiarosario.png?size=200",
         "description":" - Software engineer at Cisco. Blogger at <a href=\"http://adrianmejia.com\">adrianmejia.com</a>. Author of <a href=\"https://github.com/amejiarosario/meanshop\">\"E-commerce Application built with the MEAN stack\"</a>. JavaScript lover. Boston located.",
         "fullname":"Adrian Mejia",
         "link":"https://github.com/amejiarosario/ama",
         "username":"amejiarosario"
     },
     {
+        "avatar":"https://github.com/jkup.png?size=200",
         "description":" - I love JavaScript! I blog at <a href=\"https://codeplanet.io\">Codeplanet</a>, make videos at <a href=\"https://nodecasts.io\">Nodecasts</a> and podcast at <a href=\"https://webbehind.com\">The Web Behind</a>.",
         "fullname":"Jon Kuperman",
         "link":"https://github.com/jkup/ama",
         "username":"jkup"
     },
     {
+        "avatar":"https://github.com/mxstbr.png?size=200",
         "description":" - Open source developer advocate at Thinkmill, developing <a href=\"https://github.com/keystonejs/keystone\">KeystoneJS</a> and <a href=\"https://github.com/elementalui/elemental\">ElementalUI</a>. Creator of <a href=\"https://github.com/mxstbr/react-boilerplate\">react-boilerplate</a>, part of React Vienna.",
         "fullname":"Max Stoiber",
         "link":"https://github.com/mxstbr/ama",
         "username":"mxstbr"
     },
     {
+        "avatar":"https://github.com/lencioni.png?size=200",
         "description":" - Building <a href=\"https://github.com/Galooshi/import-js\">ImportJS</a> and <a href=\"https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f\">Diffux CI</a>. Web infra at <a href=\"https://www.airbnb.com\">Airbnb</a>.",
         "fullname":"Joe Lencioni",
         "link":"https://github.com/lencioni/ama",
         "username":"lencioni"
     },
     {
+        "avatar":"https://github.com/lindseyb.png?size=200",
         "description":" - Back-end developer, game maker, and hardware hacker.",
         "fullname":"Lindsey Bieda",
         "link":"https://github.com/lindseyb/ama",
         "username":"lindseyb"
     },
     {
+        "avatar":"https://github.com/jfmengels.png?size=200",
         "description":" - JS developer and open source enthusiast.",
         "fullname":"Jeroen Engels",
         "link":"https://github.com/jfmengels/ama",
         "username":"jfmengels"
     },
     {
+        "avatar":"https://github.com/smithtimmytim.png?size=200",
         "description":" - Front-end designer, nerd, and recovering coffee addict.",
         "fullname":"Tim Smith",
         "link":"https://github.com/smithtimmytim/ama",
         "username":"smithtimmytim"
     },
     {
+        "avatar":"https://github.com/SamVerschueren.png?size=200",
         "description":" - Full stack JavaScript developer and open source contributor.",
         "fullname":"Sam Verschueren",
         "link":"https://github.com/SamVerschueren/ama",
         "username":"SamVerschueren"
     },
     {
+        "avatar":"https://github.com/Haroenv.png?size=200",
         "description":" - Student mostly doing JS, open source everything, creating <g-emoji alias=\"cow\" fallback-src=\"https://assets-cdn.github.com/images/icons/emoji/unicode/1f42e.png\" ios-version=\"6.0\">\ud83d\udc2e</g-emoji><g-emoji alias=\"hankey\" fallback-src=\"https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png\" ios-version=\"6.0\">\ud83d\udca9</g-emoji> at <a href=\"https://bullg.it\">bullgit</a>.",
         "fullname":"Haroen Viaene",
         "link":"https://github.com/Haroenv/ama",
         "username":"Haroenv"
     },
     {
+        "avatar":"https://github.com/arjunmayilvaganan.png?size=200",
         "description":" - Senior Year Student at <a href=\"https://en.wikipedia.org/wiki/College_of_Engineering,_Guindy\">CEG</a>. Striving to make it as a Full stack developer.",
         "fullname":"Arjun Mayilvaganan",
         "link":"https://github.com/arjunmayilvaganan/ama",
         "username":"arjunmayilvaganan"
     },
     {
+        "avatar":"https://github.com/kundansingh1.png?size=200",
         "description":" - Full Stack Javascript Developer, Biker, Traveller, Photographer.",
         "fullname":"Kundan Singh",
         "link":"https://github.com/kundansingh1/ama",
         "username":"kundansingh1"
     },
     {
+        "avatar":"https://github.com/manovotny.png?size=200",
         "description":" - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.",
         "fullname":"Michael Novotny",
         "link":"https://github.com/manovotny/ama",
         "username":"manovotny"
     },
     {
+        "avatar":"https://github.com/sapegin.png?size=200",
         "description":" - Frontend developer at Here, creator of <a href=\"https://github.com/sapegin/react-styleguidist\">React Styleguidist</a> and passionate photographer.",
         "fullname":"Artem Sapegin",
         "link":"https://github.com/sapegin/ama",
         "username":"sapegin"
     },
     {
+        "avatar":"https://github.com/miduga.png?size=200",
         "description":" - Developer of things and stuff at Typeform, creator of <a href=\"https://github.com/miduga/react-slidy\">React Slidy</a>. Love videogames, embrace StandardJS. Living in Barcelona.",
         "fullname":"Miguel Dur\u00e1n",
         "link":"https://github.com/miduga/ama",
         "username":"miduga"
     },
     {
+        "avatar":"https://github.com/jesselpalmer.png?size=200",
         "description":" - Author of <a href=\"http://testing-angular-2-applications.com\">Testing Angular 2 Applications</a>. Master Software Engineer, Manager at Capital One.",
         "fullname":"Jesse Palmer",
         "link":"https://github.com/jesselpalmer/ama",
         "username":"jesselpalmer"
     },
     {
+        "avatar":"https://github.com/elderfo.png?size=200",
         "description":" - Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.",
         "fullname":"Chris 'Freddy' Getsfred",
         "link":"https://github.com/elderfo/ama",
         "username":"elderfo"
     },
     {
+        "avatar":"https://github.com/sholladay.png?size=200",
         "description":" - A human seeking a full stack of pancakes and software, bug free.",
         "fullname":"Seth Holladay",
         "link":"https://github.com/sholladay/ama",
         "username":"sholladay"
     },
     {
+        "avatar":"https://github.com/nikitavoloboev.png?size=200",
         "description":" - <a href=\"https://github.com/nikitavoloboev/my-mac-os\">macOS enthusiast</a>, <a href=\"https://github.com/nikitavoloboev/my-notes\">open knowledge</a> evangelist, <a href=\"https://medium.com/@NikitaVoloboev\">writer</a> and an aspiring web developer.",
         "fullname":"Nikita Voloboev",
         "link":"https://github.com/nikitavoloboev/ama",
