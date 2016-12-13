@@ -771,7 +771,7 @@
     },
     {
         "avatar":"https://github.com/Haroenv.png?size=200",
-        "description":" - Student mostly doing JS, open source everything, creating <g-emoji alias=\"cow\" fallback-src=\"https://assets-cdn.github.com/images/icons/emoji/unicode/1f42e.png\" ios-version=\"6.0\">\ud83d\udc2e</g-emoji><g-emoji alias=\"hankey\" fallback-src=\"https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png\" ios-version=\"6.0\">\ud83d\udca9</g-emoji> at <a href=\"https://bullg.it\">bullgit</a>.",
+        "description":" - Student mostly doing JS, open source everything, creating <img src='https://assets-cdn.github.com/images/icons/emoji/unicode/1f42e.png' width='30' height='30' /><img src='https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png' width='30' height='30' /> at <a href=\"https://bullg.it\">bullgit</a>.",
         "fullname":"Haroen Viaene",
         "link":"https://github.com/Haroenv/ama",
         "username":"Haroenv"
